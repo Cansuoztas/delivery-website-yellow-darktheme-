@@ -1,1 +1,1 @@
-[website-yellow-darktheme](https://cansuoztas.github.io/website-yellow-darktheme/)
+[website-green-darktheme](https://cansuoztas.github.io/website-green-darktheme/)
